@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1025667794385",
+    "firebase_url": "https://authsample-af5c3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "authsample-af5c3",
+    "storage_bucket": "authsample-af5c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025667794385:android:24829f212a6ab364c8ccf0",
+        "android_client_info": {
+          "package_name": "com.flutterfireui.authexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025667794385-m6p1b0he5n9d86a29gr3dnq1o2u4mako.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterfireui.authexample",
+            "certificate_hash": "b8978633d8ec0875fd84dae524e641bb6c299709"
+          }
+        },
+        {
+          "client_id": "1025667794385-tdnug9vp9n9dk93ndv14uemjifnnjmof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJHUe-XOAU0B1ub-5Ulx6SqUIpQkMqkms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025667794385-tdnug9vp9n9dk93ndv14uemjifnnjmof.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1025667794385-1gg76e920jcrcl0bu1igojs6dhceqrss.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spagree.authsample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025667794385:android:fedf4cab788b321dc8ccf0",
+        "android_client_info": {
+          "package_name": "com.spagreen.authsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025667794385-rhpgmcvjejbuau4a06049aitff1oei8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spagreen.authsample",
+            "certificate_hash": "b8978633d8ec0875fd84dae524e641bb6c299709"
+          }
+        },
+        {
+          "client_id": "1025667794385-tdnug9vp9n9dk93ndv14uemjifnnjmof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJHUe-XOAU0B1ub-5Ulx6SqUIpQkMqkms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025667794385-tdnug9vp9n9dk93ndv14uemjifnnjmof.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1025667794385-1gg76e920jcrcl0bu1igojs6dhceqrss.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spagree.authsample"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
